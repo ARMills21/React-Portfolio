@@ -176,7 +176,7 @@ class Projects extends Component {
     };
 }};
 
-  render() ;{
+  render() {
     return (
       <div>
         <Tabs
